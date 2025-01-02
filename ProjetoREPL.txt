@@ -1,0 +1,9 @@
+|--------------------------------------------------------------------------|
+| Participantes: RAFAEL ARAUJO DINIZ                                       |
+|                ANA CLARA ARAUJO DA CRUZ                                  |
+|                CASSIO HERBETH RODRIGUES ARAUJO                           |
+|                                                                          |
+| Repositorio para trabalho da cadeira de algotimos e estrutura de dados   |  
+|                                                                          |
+| Um REPL para uma máquina baseada em pilha - Etapa 1 e 2                  |
+|--------------------------------------------------------------------------|
